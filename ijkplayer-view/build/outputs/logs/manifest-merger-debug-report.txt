@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:4:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:5:9-35
+service#com.test.ijkplayer_view.service.MediaPlayerService
+ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:8:9-11:48
+	android:enabled
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:10:13-36
+	android:exported
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml:9:13-78
+uses-sdk
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bignox\Desktop\TestIjkplayer\ijkplayer-view\src\main\AndroidManifest.xml
